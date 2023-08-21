@@ -2,11 +2,13 @@
 
 Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
 
-### <img src="./img/logo-vping.png" title="" alt="" width="64"> Visual Ping
+### <img src="./img/vping/logo-vping.png" title="" alt="" width="64"> Visual Ping
 
 <u>The ultimate tool for monitoring and comparing network performance.</u>
 
 Are you looking for a simple and effective way to monitor the network performance of your websites or servers? Do you want to see how fast and reliable your connections are in real time? If so, you should check out Visual Ping, a desktop application that lets you ping one or two hostnames or IP addresses and see colorful graphs of the results.
+
+<img src="./img/vping/screenshot.png" title="" alt="" width="600">
 
 Visual Ping is easy to use and intuitive. You just need to enter the hostnames or IP addresses of the sites or servers you want to ping, and click Start. Visual Ping will start sending packets of data to the destinations and measure how long it takes for them to respond. You will see the ping times displayed as lines on a graph, with different colors for each destination. You can also see the minimum, maximum, average and current ping times in milliseconds.
 
