@@ -2,7 +2,7 @@
 
 Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
 
-### <img src="file:///home/waplay/Dev/Html/waplay.github.io/logo.png" title="" alt="" width="64"> Visual Ping
+### <img src="./img/logo-vping.png" title="" alt="" width="64"> Visual Ping
 
 <u>The ultimate tool for monitoring and comparing network performance.</u>
 
