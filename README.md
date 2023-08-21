@@ -1,7 +1,7 @@
-## Waplay Soft
-
 Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
-
+<br>
+<br>
+<br>
 ### <img src="./img/vping/logo-vping.png" title="" alt="" width="64"> Visual Ping
 
 <u>The ultimate tool for monitoring and comparing network performance.</u>
