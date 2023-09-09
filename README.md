@@ -2,7 +2,12 @@
 
 <a href="https://nowpayments.io/donation?api_key=X1QFVQG-31Z4VTA-QNPGNHV-EMN5JHY&source=lk_donation&medium=referral" target="_blank"><img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments"></a>
 
+Developer: [Sergey Tsymbal](https://github.com/waplay)
+<br>
+<br>
 Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
+<br>
+Telegram: [@waplay](https://t.me/waplay)
 <br>
 <br>
 <br>
@@ -39,6 +44,8 @@ IMPORTANT! The app does not request or store passwords and secret phrases, does 
 Download it now to easily track all your wallets in one app!
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/btc-wallet-tracking)
+
+[source code](https://github.com/waplay/btc-wallet-tracking)
 <br>
 <br>
 ...
