@@ -6,11 +6,16 @@ Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
 <br>
 <br>
 <br>
+# My apps list
+<br>
+<br>
+<br>
+
 ### <img src="./img/btc-wallet-tracking/logo.png" title="" alt="" width="64"> BTC Wallet Tracking
 
 [![btc-wallet-tracking](https://snapcraft.io/btc-wallet-tracking/badge.svg)](https://snapcraft.io/btc-wallet-tracking)
 
-<u>"BTC Wallet Tracking" - tracking bitcoin wallets tool.</u>
+<u>Tracking bitcoin wallets tool.</u>
 
 Easily track your cryptocurrency wallets or monitor other people's activity with "BTC Wallet Tracker". This convenient app allows you to manage a list of addresses in one place. "BTC Wallet Tracking" also synchronizes wallet data automatically, so you always have up-to-date information.
 
