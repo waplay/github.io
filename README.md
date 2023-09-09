@@ -2,7 +2,7 @@
 
 <a href="https://nowpayments.io/donation?api_key=X1QFVQG-31Z4VTA-QNPGNHV-EMN5JHY&source=lk_donation&medium=referral" target="_blank"><img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments"></a>
 
-Developer: [Sergey Tsymbal](https://github.com/waplay)
+Developer: [Sergey Tsymbal (waplay)](https://github.com/waplay)
 <br>
 <br>
 Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
