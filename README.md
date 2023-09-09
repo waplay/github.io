@@ -1,19 +1,32 @@
-
-
+Developer: [Sergey Tsymbal (waplay)](https://github.com/waplay)
+<details>
+  <summary>Contacts</summary>
+  
+  Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
+  <br>
+  Telegram: [@waplay](https://t.me/waplay)
+  
+</details>
+<hr>
+You can support the developer and projects by making a donation:
+<br>
+<br>
 <a href="https://nowpayments.io/donation?api_key=X1QFVQG-31Z4VTA-QNPGNHV-EMN5JHY&source=lk_donation&medium=referral" target="_blank"><img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments"></a>
 
-Developer: [Sergey Tsymbal (waplay)](https://github.com/waplay)
+<details>
+  <summary>Or direct transfer</summary>
+<br>
+BTC wallet:
+<br>
+bc1qtdz2fut4g2hzagjlh6fqnpuz5ghnj8dvjggcd3
 <br>
 <br>
-Email: [waplay@yahoo.com](mailto:waplay@yahoo.com)
+Etherium wallet:
 <br>
-Telegram: [@waplay](https://t.me/waplay)
+0xEb86bf93c6cd4A41cCd1a410Eb1E54d1eaD7D93D
 <br>
-<br>
-<br>
-# My apps list
-<br>
-<br>
+</details>
+<hr>
 <br>
 
 ### <img src="./img/btc-wallet-tracking/logo.png" title="" alt="" width="64"> BTC Wallet Tracking
@@ -48,9 +61,10 @@ Download it now to easily track all your wallets in one app!
 [source code](https://github.com/waplay/btc-wallet-tracking)
 <br>
 <br>
-...
+
+<hr>
 <br>
-<br>
+
 ### <img src="./img/vping/logo-vping.png" title="" alt="" width="64"> Visual Ping
 
 [![vping](https://snapcraft.io/vping/badge.svg)](https://snapcraft.io/vping)
