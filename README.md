@@ -65,7 +65,7 @@ Download it now to easily track all your wallets in one app!
 <hr>
 <br>
 
-### <img src="./img/vping/logo-vping.png" title="" alt="" width="64"> Visual Ping
+### <img src="./img/vping/logo.png" title="" alt="" width="64"> Visual Ping
 
 [![vping](https://snapcraft.io/vping/badge.svg)](https://snapcraft.io/vping)
 
