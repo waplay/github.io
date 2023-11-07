@@ -4,8 +4,7 @@ Developer: [Sergey Tsymbal (waplay)](https://github.com/waplay)
   
   Email: <a href="mailto:waplay@yahoo.com">waplay@yahoo.com</a>
   <br>
-  Telegram: [@waplay](https://t.me/waplay)
-  
+  Telegram: <a href="@waplay">https://t.me/waplay</a>  
 </details>
 <hr>
 You can support the developer and projects by making a donation:
