@@ -28,11 +28,64 @@ Etherium wallet:
 <hr>
 <br>
 
-### <img src="./img/btc-wallet-tracking/logo.png" title="" alt="" width="64"> BTC Wallet Tracking
+# <img src="./img/fast-crypto-exchange/logo.png" title="" alt="" width="64"> Fast Crypto Exchange
+
+[![fast-crypto-exchange](https://snapcraft.io/fast-crypto-exchange/badge.svg)](https://snapcraft.io/fast-crypto-exchange)
+
+### Instant, limitless, account-free crypto changer
+
+Fast Crypto Exchange is a client app for the ChangeNOW.
+<br>
+Fast Crypto Exchange is open source and does not have access to your wallets.
+
+<img src="./img/fast-crypto-exchange/screenshot.png" title="" alt="" width="600">
+
+Exchange 850+ cryptos in a few taps (via ChangeNOW)!
+
+### 🔒Simple & Secure Crypto Swaps
+
+ChangeNOW is focused on safety and simplicity – the service is registration-free and non-custodial. It means that your crypto assets are never stored on some “account”. Directly send, directly receive.
+
+### 😎 Best Exchange Rates Found Automatically
+
+You don’t need to check crypto price charts and continuously monitor different services like TradingView or CoinMarketCap to get the best crypto exchange rate. We do it for you — at the moment of the exchange, our algorithms search for the best rates on the market. If the network fees are more than 10% of the estimated value, we will warn you about it.
+
+### 🤙🏽850+ Listed Digital Currencies
+
+On ChangeNOW you can find all the top cryptocurrencies along with less-known tokens or promising new coins. The list of supported crypto currencies includes Bitcoin (BTC), Ethereum (ETH), Cardano (ADA), Bitcoin Cash (BCH), Litecoin (LTC), Ripple (XRP), Stellar (XLM), Dogecoin (DOGE), SHIBA INU (SHIB), Polkadot (DOT), Chainlink (LINK), Tether (USDT), Solana (SOL), VeChain (VET), Nexo (NEXO) & many other altcoins.
+Stablecoins: Tether (USDT), TrueUSD (TUSD), DAI, USD Coin (USDC), Binance USD (BUSD), Gemini Dollar (GUSD).
+DEFI-tokens: Uniswap (UNI), Yearn.finance (YFI), SushiSwap (SUSHI), PancakeSwap (CAKE).
+
+### ✅ Swap as Much Crypto as You Want
+
+Exchange limits are lame — this is why we’ve cut them off! The minimum limit to trade your crypto is around $2, while the upper limit is simply doesn’t exist. Even a one-time over-9000 bitcoins transaction will be processed.
+
+### 🚀 Faster Than Light
+
+It takes about 1 minute to create an exchange, and another 2 to process it. The time span can vary from 2 to 40 minutes depending on the coin’s network congestion.
+
+### 🔍 Intuitive in-app Search
+
+Popular cryptocurrency search requests contain numerous typos and misspellings. We know what you are looking for, so the in-app search will help you to find the desired asset, even if the name is typed incorrectly.
+
+### ✅ 24/7 Live Support
+
+Our support team will make your crypto exchange experience smooth and pleasant. Have a question about your transaction or an issue with the app? We’ll take care immediately!
+
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/fast-crypto-exchange)
+
+[source code](https://github.com/waplay/fast-crypto-exchange)
+<br>
+<br>
+
+<hr>
+<br>
+
+# <img src="./img/btc-wallet-tracking/logo.png" title="" alt="" width="64"> BTC Wallet Tracking
 
 [![btc-wallet-tracking](https://snapcraft.io/btc-wallet-tracking/badge.svg)](https://snapcraft.io/btc-wallet-tracking)
 
-<u>Tracking bitcoin wallets tool.</u>
+### Tracking bitcoin wallets tool
 
 Easily track your cryptocurrency wallets or monitor other people's activity with "BTC Wallet Tracker". This convenient app allows you to manage a list of addresses in one place. "BTC Wallet Tracking" also synchronizes wallet data automatically, so you always have up-to-date information.
 
@@ -64,11 +117,11 @@ Download it now to easily track all your wallets in one app!
 <hr>
 <br>
 
-### <img src="./img/vping/logo.png" title="" alt="" width="64"> Visual Ping
+# <img src="./img/vping/logo.png" title="" alt="" width="64"> Visual Ping
 
 [![vping](https://snapcraft.io/vping/badge.svg)](https://snapcraft.io/vping)
 
-<u>The ultimate tool for monitoring and comparing network performance.</u>
+### The ultimate tool for monitoring and comparing network performance
 
 Are you looking for a simple and effective way to monitor the network performance of your websites or servers? Do you want to see how fast and reliable your connections are in real time? If so, you should check out Visual Ping, a desktop application that lets you ping one or two hostnames or IP addresses and see colorful graphs of the results.
 
@@ -87,11 +140,11 @@ Visual Ping is a must-have tool for anyone who cares about network performance a
 <hr>
 <br>
 
-### <img src="./img/monograph/logo_512.png" title="" alt="" width="64"> Monograph
+# <img src="./img/monograph/logo_512.png" title="" alt="" width="64"> Monograph
 
 [![monograph](https://snapcraft.io/monograph/badge.svg)](https://snapcraft.io/monograph)
 
-<u>A powerful tool for creating articles and posts on social networks.</u>
+### A powerful tool for creating articles and posts on social networks
 
 Monograph is a versatile text editor designed for creating beautifully formatted articles and posts on any social networks. Whether you’re a blogger, group manager, or simply enjoy writing, Monograph makes it easy to create professional-looking content. It allows you to publish articles instantly on platforms like Telegram and Facebook without loading delays. With features like anonymous authorship, customizable formatting, and the ability to insert images, Monograph is an ideal tool for expressing your thoughts and sharing longreads. Additionally, Monograph can be used as a notepad for taking notes or for creating a website or product/service presentation page.
 
