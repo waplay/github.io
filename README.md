@@ -1,4 +1,4 @@
-Developer: [Sergey Tsymbal (waplay)](https://github.com/waplay)
+Developer: [Sergey Tsymbal aka Waplay](https://github.com/waplay)
 <details>
   <summary>Contacts</summary>
   
