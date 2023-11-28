@@ -179,3 +179,5 @@ Use Monograph to make your messages look like professional articles! With Monogr
 <br>
 
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/monograph)
+
+<meta name="5117315829877dba8dc4e7bf5a4dd2d91fc5eb3c" content="5117315829877dba8dc4e7bf5a4dd2d91fc5eb3c" />
