@@ -1,3 +1,6 @@
+<link rel="icon" href="https://waplay.github.io/favicon.png" type="image/x-icon">
+<link rel="shortcut icon" href="https://waplay.github.io/favicon.png" type="image/x-icon">
+
 Developer: [Sergey Tsymbal aka Waplay](https://github.com/waplay)
 <details>
   <summary>Contacts</summary>
