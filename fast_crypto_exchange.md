@@ -1,8 +1,3 @@
----
----
-
-# Fast Crypto Exchange
-
 <link rel="icon" href="https://waplay.github.io/favicon.png" type="image/x-icon">
 <link rel="shortcut icon" href="https://waplay.github.io/favicon.png" type="image/x-icon">
 
