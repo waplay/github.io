@@ -6,7 +6,6 @@ Developer: [Sergey Tsymbal aka Waplay](https://github.com/waplay)
   <summary>Contacts</summary>
   
   Email: <a href="mailto:waplay@yahoo.com">waplay@yahoo.com</a>
-  <br>
   Telegram: <a href="https://t.me/waplay">@waplay</a>  
 </details>
 <hr>
