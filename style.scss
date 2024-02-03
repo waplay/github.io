@@ -294,6 +294,12 @@ footer {
   margin-top: 20px;
 }
 
+.menu-button {
+  margin-bottom: 10px; /* Расстояние между кнопками */
+  text-align: center; /* Выравнивание текста кнопки по центру */
+  /* Добавьте дополнительные стили кнопки при необходимости */
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
