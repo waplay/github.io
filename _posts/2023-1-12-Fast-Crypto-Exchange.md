@@ -7,7 +7,7 @@ title: Fast Crypto Exchange
 
 ![Fast Crypto Exchange](/images/fast-crypto-exchange/logo.png)
 
-### Instant, limitless, account-free crypto changer
+## Instant, limitless, account-free crypto changer
 
 Fast Crypto Exchange is a client app for the ChangeNOW.
 

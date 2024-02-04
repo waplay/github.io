@@ -7,7 +7,7 @@ title: BTC Wallet Tracking
 
 ![BTC Wallet Tracking](/images/btc-wallet-tracking/logo.png)
 
-### Tracking bitcoin wallets tool
+## Tracking bitcoin wallets tool
 
 Easily track your cryptocurrency wallets or monitor other people's activity with "BTC Wallet Tracker". This convenient app allows you to manage a list of addresses in one place. "BTC Wallet Tracking" also synchronizes wallet data automatically, so you always have up-to-date information.
 
