@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px; // margin beatween masthead and main content
 }
 
 .masthead {
@@ -163,11 +163,22 @@ img {
   }
 }
 
+// .masthead {
+//   display: flex;
+//   flex-direction: row; // стек элементов вертикально
+//   align-items: center; // выравнивание элементов по центру
+
+//   @include mobile {
+//     flex-direction: column;
+//   }
+// }
+
 .site-avatar {
   float: left;
   width: 70px;
   height: 70px;
   margin-right: 15px;
+  margin-top: 15px;
 
   @include mobile {
     float: none;
@@ -182,6 +193,7 @@ img {
 
 .site-info {
   float: left;
+  margin-bottom: 10px;
 
   @include mobile {
     float: none;
@@ -212,7 +224,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 12px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -224,10 +236,10 @@ nav {
   }
 
   a {
-    margin-left: 20px;
-    color: $darkGray;
+    margin-left: 20px; // margin between nav items
+    color: $blue;
     text-align: right;
-    font-weight: 300;
+    font-weight: bold;
     letter-spacing: 1px;
 
     @include mobile {
@@ -283,28 +295,17 @@ footer {
   text-align: center;
 }
 
+.copyright {
+  text-align: center;
+  font-size: 0.875rem; // Пример размера шрифта
+  color: $darkGray; // Цвет текста, используя переменную из вашего файла переменных
+  padding: 1em 0; // Пример отступов
+}
+
 // my custom styles
 
 .welcome-text {
   text-align: center;
-}
-
-// .vertical-menu {
-//   text-align: center;
-//   margin-top: 20px;
-// }
-
-.vertical-menu {
-  display: flex;
-  flex-direction: column;
-  align-items: center; // Добавлено для центрирования кнопок по горизонтали
-  margin-top: 20px;
-}
-
-.menu-button {
-  margin-bottom: 10px; /* Расстояние между кнопками */
-  text-align: center; /* Выравнивание текста кнопки по центру */
-  /* Добавьте дополнительные стили кнопки при необходимости */
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

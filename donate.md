@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Donate
+permalink: /donate/
 ---
 
 Some information about you!
