@@ -4,7 +4,7 @@ title: My contacts
 permalink: /contacts/
 ---
 
-## Get in Touch
+### Get in Touch
 
 Connect with me to discuss technology, projects, or opportunities. Whether you have a question, a proposal, or just want to say hi, I'm all ears.
 
