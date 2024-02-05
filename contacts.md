@@ -2,6 +2,7 @@
 layout: page
 title: My contacts
 permalink: /contacts/
+sitemap: false
 ---
 
 ### Get in Touch

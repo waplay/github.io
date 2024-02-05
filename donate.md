@@ -2,6 +2,7 @@
 layout: page
 title: Donate
 permalink: /donate/
+sitemap: false
 ---
 
 If you enjoy my work, please consider making a donation.
@@ -25,9 +26,9 @@ EQDf-LhcAXD5ui-1fHeJynirSM5GHNAUYdKaj_VvtVkae1-V
 ### Payeer
 P1101835961
 
-### Webmoney
+<!-- ### Webmoney
 Z397053415578
 
 E850665388766
 
-T260001012892
+T260001012892 -->

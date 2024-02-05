@@ -1,11 +1,5 @@
-#
-# This file contains configuration flags to customize your site
-#
-
-# Name of your site (displayed in the header)
 name: Sergey Tsymbal aka Waplay
-
-# Short bio or description (displayed in the header)
+title: Dev blog by Sergey Tsymbal aka Waplay
 description: Developer with experience in mobile, desktop and cross-platform development
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
