@@ -7,9 +7,9 @@ sitemap: false
 
 If you enjoy my work, please consider making a donation.
 
-### Thank you for your support!
+[![Crypto donation button by CryptoCloud](/images/cryptocloud.jpeg)](https://pay.cryptocloud.plus/pos/T8GsdBaD9HAuYJDe)
 
-[![Crypto donation button by NOWPayments](https://nowpayments.io/images/embeds/donation-button-black.svg)](https://nowpayments.io/donation?api_key=X1QFVQG-31Z4VTA-QNPGNHV-EMN5JHY&source=lk_donation&medium=referral)
+## Thank you for your support!
 
 ### BTC
 bc1qtdz2fut4g2hzagjlh6fqnpuz5ghnj8dvjggcd3
