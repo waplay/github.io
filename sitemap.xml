@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://waplay.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://waplay.github.io/</loc>
+</url>
+<url>
+<loc>https://waplay.github.io/about-me.html</loc>
+<lastmod>2024-06-21T21:00:09+03:00</lastmod>
+</url>
+<url>
+<loc>https://waplay.github.io/btc-wallet-tracking.html</loc>
+<lastmod>2024-06-21T21:26:46+03:00</lastmod>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/7/logo.png</image:loc>
+<image:title><![CDATA[BTC Wallet Tracking]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/7/screenshot.png</image:loc>
+<image:title><![CDATA[BTC Wallet Tracking]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://waplay.github.io/fast-crypto-exchange.html</loc>
+<lastmod>2024-06-21T21:23:23+03:00</lastmod>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/6/logo.png</image:loc>
+<image:title><![CDATA[FastCryptoExchange logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/6/screenshot.png</image:loc>
+<image:title><![CDATA[Fast Crypto Exchange]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://waplay.github.io/googlef7a3e448eff04fe7.html</loc>
+</url>
+<url>
+<loc>https://waplay.github.io/monograph.html</loc>
+<lastmod>2024-06-21T21:22:40+03:00</lastmod>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/5/logo.png</image:loc>
+<image:title><![CDATA[Monograph logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/5/screenshot2.png</image:loc>
+<image:title><![CDATA[Monograph]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://waplay.github.io/visual-ping.html</loc>
+<lastmod>2024-06-21T21:21:56+03:00</lastmod>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/2/logo.png</image:loc>
+<image:title><![CDATA[VPing logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/2/screenshot-2.png</image:loc>
+<image:title><![CDATA[Vping]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://waplay.github.io/world-tv-scope.html</loc>
+<lastmod>2024-06-21T21:19:53+03:00</lastmod>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/1/logo.png</image:loc>
+<image:title><![CDATA[WTVS logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/1/screen_dark-2.png</image:loc>
+<image:title><![CDATA[World TV Scope]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://waplay.github.io/media/posts/1/screen_day_2-2.png</image:loc>
+<image:title><![CDATA[World TV Scope]]></image:title>
+</image:image>
+</url>
+</urlset>

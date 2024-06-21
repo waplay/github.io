@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://waplay.github.io/sitemap.xml
