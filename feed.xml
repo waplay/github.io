@@ -3,7 +3,7 @@
     <title>waplay.github.io</title>
     <link href="https://waplay.github.io/feed.xml" rel="self" />
     <link href="https://waplay.github.io" />
-    <updated>2024-10-21T21:19:19+03:00</updated>
+    <updated>2024-10-22T09:18:55+03:00</updated>
     <author>
         <name>waplay</name>
     </author>
@@ -261,7 +261,7 @@
             <category term="linux"/>
             <category term="desktop"/>
 
-        <updated>2024-10-21T21:19:19+03:00</updated>
+        <updated>2024-10-22T09:18:55+03:00</updated>
             <summary>
                 <![CDATA[
                     <figure class="post__image post__image--center"><img loading="lazy"  src="https://waplay.github.io/media/posts/2/screenshot.png" alt="Visual Ping" width="852" height="723" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://waplay.github.io/media/posts/2/responsive/screenshot-xs.png 300w ,https://waplay.github.io/media/posts/2/responsive/screenshot-sm.png 480w ,https://waplay.github.io/media/posts/2/responsive/screenshot-md.png 768w ,https://waplay.github.io/media/posts/2/responsive/screenshot-lg.png 1024w"></figure>
@@ -281,7 +281,7 @@
 <hr>
 <h3 class="align-center">Download</h3>
 <p><strong>Linux:</strong> <a href="https://snapcraft.io/vping" target="_blank" rel="noopener noreferrer">Get it from the Snap Store</a></p>
-<p><strong>MacOS:</strong> <a href="https://waplay.github.io/VisualPing_2.0.0.zip">Download ZIP (v2.0.0)</a></p>
+<p><strong>MacOS:</strong> <a href="https://waplay.github.io/VisualPing_2.0.2.zip">Download ZIP (v2.0.2)</a></p>
             ]]>
         </content>
     </entry>
